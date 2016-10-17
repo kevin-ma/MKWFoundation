@@ -1,0 +1,14 @@
+PODS:
+  - MKWFoundation (0.0.1)
+
+DEPENDENCIES:
+  - MKWFoundation (from `../`)
+
+EXTERNAL SOURCES:
+  MKWFoundation:
+    :path: ../
+
+SPEC CHECKSUMS:
+  MKWFoundation: e5a1004740b637ce66ad228ee429f6ec73a1c3f1
+
+COCOAPODS: 0.39.0
